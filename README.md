@@ -1,5 +1,6 @@
 # ARCC
 ARCC White Paper &amp; Token Smart Contract Code
+
 Abstract. Bitcoin is the technological proof of concept of the decentralization of peer-to-peer trustless electronic cash, which then lead to the economic achievement of the issuance of a new global non-fiat currency. While ‘token sales’ through Ethereum have created hundreds of new ‘cryptocurrencies’, few progress past the standard that Bitcoin has achieved. The next steps in innovation should be found in cryptocurrencies which have the objective to further a new global decentralized economic paradigm.
 
 We propose to explore the impact of cryptocurrencies in the area of ‘economic development’. Economic development is the area of bringing ‘emerging market’ developing countries out of poverty to the standards and stability of the developed world.  Currently, there is no clear economic development model in these emerging markets which provides mass inclusive distributed development that improves the lives of all individuals over that of the standing economic elite, i.e. major corporations or societal elites who are the main beneficiaries of increased GDP of an emerging nation.
